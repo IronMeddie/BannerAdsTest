@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdFoxTest</string>
+    <string name="adUid">demo-banner-yandex</string>
+    <string name="mainScreenText">Banner Ads App</string>
+</resources>
