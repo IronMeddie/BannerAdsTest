@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-
         val observer = findViewById<ConstraintLayout>(R.id.main).viewTreeObserver
         observer.addOnGlobalLayoutListener { AdHelper(this@MainActivity).loadBannerAd() }
     }
