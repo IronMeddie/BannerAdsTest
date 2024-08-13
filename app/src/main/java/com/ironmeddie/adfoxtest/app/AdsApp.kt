@@ -1,4 +1,4 @@
-package com.ironmeddie.adfoxtest
+package com.ironmeddie.adfoxtest.app
 
 import android.app.Application
 import com.ironmeddie.adfoxtest.secret.Const
